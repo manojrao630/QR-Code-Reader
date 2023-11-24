@@ -1,1 +1,1 @@
-# QR-Code-Reader is done.
+# QR-Code-Reader is doner.
